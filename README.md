@@ -11,3 +11,7 @@
 # aula 2
  desenvolvimento de gráficos a partir das tabelas e dados estudados
  importação do seaborn - para gráficos
+# aula 3
+ desenvolvimento de tabelas com dados agregados
+ correlação entre informações
+ heatmaps
